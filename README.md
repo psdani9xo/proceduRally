@@ -90,15 +90,5 @@
 <p align="center">
   <img src="fotos/foto%20(30).png" width="90%">
 </p>
-<p align="center">
-  <img src="fotos/foto%20(31).png" width="90%">
-</p>
-<p align="center">
-  <img src="fotos/foto%20(32).png" width="90%">
-</p>
-<p align="center">
-  <img src="fotos/foto%20(33).png" width="90%">
-</p>
-<p align="center">
-  <img src="fotos/foto%20(34).png" width="90%">
-</p>
+
+
